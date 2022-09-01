@@ -31,7 +31,7 @@ function preload() {
   playImg = loadImage("images/Play.png");
   gameOverImg = loadImage("images/over.png")
   sonar = loadSound("sounds/sonar.mp3");
-  theme = loadSound("sounds/theme.mp3")
+  theme = loadSound("sounds/Theme.mp3")
   jumpSound = loadSound("sounds/jump.mp3")
   sonarimg = loadAnimation("images/sonar/1.gif",
     "images/sonar/3.gif",
